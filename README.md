@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://intelligent-ai-agent-hfmpahblck9asktqwdmlzq.streamlit.app/)
+
 An LLM-Powered Career Assistant with Tool Integration & Vector Memory
 🚀 Overview
 
